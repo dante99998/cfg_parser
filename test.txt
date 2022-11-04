@@ -1,0 +1,7 @@
+# it's a comment string
+int sensor_id    = 2578
+str name         = "Marat"g fhgh 
+str ip_address   = "192.168.50.70"fggh
+
+   
+   
